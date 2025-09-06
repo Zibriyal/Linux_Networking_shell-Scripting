@@ -1,7 +1,7 @@
 # Linux_Networking_shell-Scripting
 This repository is created to serve as a revision notes.
 
-Following topics are covered as part of the course and documentation.
+Following topics are covered.
 
 - Fundamentals of Linux
 - Linux vs Windows
