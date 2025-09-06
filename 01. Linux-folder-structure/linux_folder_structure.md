@@ -4,7 +4,7 @@
 ```
 /
 ├── 🏠 home        # User personal files
-│   └── 👤 imran   # Example user folder
+│   └── 👤 user    # Example user folder
 ├── 👑 root        # Root (admin) user home
 ├── ⚒️ bin         # Basic commands/programs
 ├── 🛠️ sbin        # System admin commands
