@@ -119,3 +119,16 @@ Filesystem      Size  Used Avail Use% Mounted on
 /dev/xvdf      9.8G   24K  9.3G   1% /mnt/demo-volume
 ```
 
+---
+
+## ✅ Final Summary
+
+- Created a **10GB EBS volume**  
+- Attached it to **Ubuntu EC2**  
+- Formatted with **ext4**  
+- Mounted at **/mnt/demo-volume**  
+- Created test file **user-zib**  
+- Verified with **lsblk, df -h**  
+
+---
+
